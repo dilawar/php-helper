@@ -1,0 +1,19 @@
+{
+    "name": "dilawar/php-helper",
+    "description": "Some helper utilities I often ends up writing again and again.",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Dilawar\\PhpHelper\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Dilawar Singh",
+            "email": "dilawar.s.rajput@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}
